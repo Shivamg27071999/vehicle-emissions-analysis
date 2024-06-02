@@ -54,6 +54,7 @@ def main():
 
     if uploaded_file is not None:
         # Load a custom trained YOLO model
+        # here you have to paste the path of yolov8 trained model
         model = YOLO(r"C:\Users\shiva\OneDrive\Desktop\CNN\Project2\Problem3\Code\yolov8n.pt")  # Load the custom-trained model
 
         # Load the video
