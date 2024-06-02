@@ -1,0 +1,16 @@
+# Core Libraries
+numpy
+pandas
+opencv-python  # For cv2 (computer vision)
+ultralytics    # For YOLOv8n
+
+# Web Framework
+streamlit
+
+# Additional Utilities (optional)
+tqdm             # Progress bars for long operations (optional)
+matplotlib       # For plotting graphs (optional)
+
+# Ensure specific versions (optional)
+# Example: 
+# streamlit==1.20.0 
